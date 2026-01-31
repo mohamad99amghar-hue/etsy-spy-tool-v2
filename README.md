@@ -1,0 +1,1 @@
+# etsy-spy-tool-v2
